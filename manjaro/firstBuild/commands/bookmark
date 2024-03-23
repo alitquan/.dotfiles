@@ -1,0 +1,4 @@
+#!/bin/bash
+echo `pwd` > ~/Desktop/bookmark.txt
+echo "Bookmarked current working directory"
+
