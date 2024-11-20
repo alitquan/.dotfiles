@@ -1,0 +1,18 @@
+import = [
+    "~/.config/alacritty/themes/themes/inferno.toml"
+]
+
+[font.normal]
+family = "SourceCodePro"
+style = "Regular"
+
+[[keyboard.bindings]]
+key = "B"
+mods = "Control"
+chars = "source goToBookmark"
+
+[[keyboard.bindings]]
+key = "B"
+mods = "Control|Shift"
+chars = "source bookmark"
+
