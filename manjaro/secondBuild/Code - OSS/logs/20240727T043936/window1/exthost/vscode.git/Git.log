@@ -1,0 +1,25 @@
+2024-07-27 04:39:37.947 [info] Log level: Info
+2024-07-27 04:39:37.947 [info] Validating found git in: "git"
+2024-07-27 04:39:37.947 [info] Using git "2.45.2" from "git"
+2024-07-27 04:39:37.947 [info] > git rev-parse --show-toplevel [17ms]
+2024-07-27 04:39:37.947 [info] > git rev-parse --git-dir --git-common-dir [5ms]
+2024-07-27 04:39:37.947 [info] Open repository: /home/apu/Programming/Variable
+2024-07-27 04:39:38.008 [info] > git rev-parse --show-toplevel [46ms]
+2024-07-27 04:39:38.010 [info] > git config --get commit.template [55ms]
+2024-07-27 04:39:38.065 [info] > git rev-parse --show-toplevel [17ms]
+2024-07-27 04:39:38.081 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/ali refs/remotes/ali [21ms]
+2024-07-27 04:39:38.099 [info] > git status -z -uall [3ms]
+2024-07-27 04:39:38.151 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/ali refs/remotes/ali [35ms]
+2024-07-27 04:39:38.166 [info] > git config --get commit.template [16ms]
+2024-07-27 04:39:38.167 [info] > git config --local branch.ali.vscode-merge-base [3ms]
+2024-07-27 04:39:38.186 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/ali refs/remotes/ali [4ms]
+2024-07-27 04:39:38.197 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [22ms]
+2024-07-27 04:39:38.218 [info] > git status -z -uall [21ms]
+2024-07-27 04:39:38.239 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/ali refs/remotes/ali [8ms]
+2024-07-27 04:39:38.276 [info] > git config --local branch.ali.vscode-merge-base [30ms]
+2024-07-27 04:39:38.286 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [4ms]
+2024-07-27 04:39:38.483 [info] > git check-ignore -v -z --stdin [2ms]
+2024-07-27 04:39:38.682 [info] > git show --textconv :LoanPayments/src/components/Table.jsx [8ms]
+2024-07-27 04:39:38.685 [info] > git ls-files --stage -- /home/apu/Programming/Variable/LoanPayments/src/components/Table.jsx [6ms]
+2024-07-27 04:39:41.649 [info] > git show --textconv :LoanPayments/src/components/Example.jsx [10ms]
+2024-07-27 04:39:41.651 [info] > git ls-files --stage -- /home/apu/Programming/Variable/LoanPayments/src/components/Example.jsx [3ms]

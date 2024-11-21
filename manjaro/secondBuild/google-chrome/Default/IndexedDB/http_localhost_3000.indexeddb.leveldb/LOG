@@ -1,0 +1,13 @@
+2024/08/14-16:36:27.800 1523 Reusing MANIFEST /home/apu/.config/google-chrome/Default/IndexedDB/http_localhost_3000.indexeddb.leveldb/MANIFEST-000001
+2024/08/14-16:36:27.800 1523 Recovering log #6
+2024/08/14-16:36:27.800 1523 Reusing old log /home/apu/.config/google-chrome/Default/IndexedDB/http_localhost_3000.indexeddb.leveldb/000006.log 
+2024/08/14-16:36:27.806 1526 Level-0 table #10: started
+2024/08/14-16:36:27.807 1526 Level-0 table #10: 2045 bytes OK
+2024/08/14-16:36:27.808 1526 Delete type=0 #6
+2024/08/14-16:36:27.809 1524 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 197 : 1
+2024/08/14-16:36:27.809 1524 Compacting 1@0 + 1@1 files
+2024/08/14-16:36:27.810 1524 Generated table #11@0: 86 keys, 2113 bytes
+2024/08/14-16:36:27.810 1524 Compacted 1@0 + 1@1 files => 2113 bytes
+2024/08/14-16:36:27.811 1524 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/14-16:36:27.811 1524 Delete type=2 #10
+2024/08/14-16:36:27.811 1524 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 197 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

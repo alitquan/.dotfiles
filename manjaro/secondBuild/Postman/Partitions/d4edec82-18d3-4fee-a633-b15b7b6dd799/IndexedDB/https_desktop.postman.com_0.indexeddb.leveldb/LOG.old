@@ -1,0 +1,12 @@
+2024/08/18-00:39:10.261 1485 Reusing MANIFEST /home/apu/.config/Postman/Partitions/d4edec82-18d3-4fee-a633-b15b7b6dd799/IndexedDB/https_desktop.postman.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/18-00:39:10.261 1485 Recovering log #8
+2024/08/18-00:39:10.270 1485 Reusing old log /home/apu/.config/Postman/Partitions/d4edec82-18d3-4fee-a633-b15b7b6dd799/IndexedDB/https_desktop.postman.com_0.indexeddb.leveldb/000008.log 
+2024/08/18-02:48:30.050 23c3 Compacting 1@1 + 1@2 files
+2024/08/18-02:48:30.051 23c3 Generated table #12@1: 75 keys, 1534 bytes
+2024/08/18-02:48:30.051 23c3 Compacted 1@1 + 1@2 files => 1534 bytes
+2024/08/18-02:48:30.053 23c3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/18-04:54:36.450 263f Level-0 table #14: started
+2024/08/18-04:54:36.472 263f Level-0 table #14: 1325117 bytes OK
+2024/08/18-04:54:36.474 263f Delete type=2 #5
+2024/08/18-04:54:36.474 263f Delete type=2 #10
+2024/08/18-04:54:36.474 263f Delete type=0 #8

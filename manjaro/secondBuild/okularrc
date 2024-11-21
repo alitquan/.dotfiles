@@ -1,0 +1,28 @@
+[Desktop Entry]
+FullScreen=false
+shouldShowMenuBarComingFromFullScreen=false
+shouldShowToolBarComingFromFullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Documents/artificialIntelligence.md
+File2[$e]=$HOME/Documents/programmingStructures.md
+File3[$e]=$HOME/Documents/programming/leetcode.md
+File4[$e]=$HOME/Documents/programming/programmingStructures.md
+File5[$e]=$HOME/Downloads/Riaan Lowe, Donovan Kelly - Exam Ref AZ-104 Microsoft Azure Administrator Certification and Beyond_ A pragmatic guide to achieving the Azure administration certification, 2nd Edition-Packt Publishing .epub
+File6[$e]=$HOME/Documents/programming/devOps.md
+File7[$e]=$HOME/Documents/programming/az104.md
+Name1[$e]=artificialIntelligence.md
+Name2[$e]=programmingStructures.md
+Name3[$e]=leetcode.md
+Name4[$e]=programmingStructures.md
+Name5[$e]=Riaan Lowe, Donovan Kelly - Exam Ref AZ-104 Microsoft Azure Administrator Certification and Beyond_ A pragmatic guide to achieving the Azure administration certification, 2nd Edition-Packt Publishing .epub
+Name6[$e]=devOps.md
+Name7[$e]=az104.md

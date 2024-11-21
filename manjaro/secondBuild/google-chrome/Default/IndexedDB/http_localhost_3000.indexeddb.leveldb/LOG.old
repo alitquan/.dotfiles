@@ -1,0 +1,10 @@
+2024/08/14-16:35:53.839 1524 Creating DB /home/apu/.config/google-chrome/Default/IndexedDB/http_localhost_3000.indexeddb.leveldb since it was missing.
+2024/08/14-16:35:53.840 1524 Reusing MANIFEST /home/apu/.config/google-chrome/Default/IndexedDB/http_localhost_3000.indexeddb.leveldb/MANIFEST-000001
+2024/08/14-16:35:53.870 1526 Level-0 table #5: started
+2024/08/14-16:35:53.872 1526 Level-0 table #5: 754 bytes OK
+2024/08/14-16:35:53.875 1526 Delete type=0 #3
+2024/08/14-16:35:53.875 1526 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/08/14-16:36:18.610 1526 Level-0 table #7: started
+2024/08/14-16:36:18.612 1526 Level-0 table #7: 3383 bytes OK
+2024/08/14-16:36:18.613 1526 Delete type=0 #4
+2024/08/14-16:36:18.613 1523 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

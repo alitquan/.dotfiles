@@ -1,0 +1,13 @@
+color = ''
+project-name = 'default'
+[default]
+account_id = 'acct_1JmPtxAeKHJQojJr'
+device_name = 'apu-1'
+display_name = 'Zoozoo411'
+live_mode_api_key = 'rk_live_***********************************************************************************************uBYB'
+live_mode_key_expires_at = '2024-11-25'
+live_mode_pub_key = 'pk_live_51JmPtxAeKHJQojJrDwZHMlOYCP2nytlEROHxJyrFMZlVFpT9WxtFYiZFnLZsuBZs1ohKJjWJWjVCgS0pcjmGU2N000ITiVXIaP'
+test_mode_api_key = 'rk_test_51JmPtxAeKHJQojJrl0dFLnjYp630hrplbRWmhhhkpaOLAk75MLPDv5cYEdarQHTN7psyJ60hMnR6brJOtPQ9f2wv00yg4YTXz5'
+test_mode_key_expires_at = '2024-11-25'
+test_mode_pub_key = 'pk_test_51JmPtxAeKHJQojJrGTQsEGOuJRoAvobhGdvZ3tfIbtLIVrSRbhxQnG676rVcATE6GlYl6PlRZwis0mcy0ZTd5E1D005AFactmF'
+
