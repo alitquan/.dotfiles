@@ -1,4 +1,0 @@
-2024-11-01 22:43:39.721 [info] Started local extension host with pid 1475.
-2024-11-01 22:43:42.822 [info] [perf] Render performance baseline is 20ms
-2024-11-01 22:44:05.435 [warning] [backup tracker] suspended, ignoring unregister event file:///home/apu/Programming/Flashcards/package.json 
-2024-11-01 22:44:05.435 [warning] [backup tracker] suspended, ignoring unregister event file:///home/apu/Programming/Flashcards/.next/types/package.json 

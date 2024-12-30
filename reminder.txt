@@ -1,0 +1,6 @@
+./bootstrap.sh
+
+Inside Neovim
+    :PackerSync
+    :Mason
+        -- use 'i' key to install relevant LSP

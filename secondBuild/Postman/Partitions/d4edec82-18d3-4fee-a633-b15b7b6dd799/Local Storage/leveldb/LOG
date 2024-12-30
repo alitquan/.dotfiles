@@ -1,6 +1,0 @@
-2024/08/18-10:01:46.069 8c46 Reusing MANIFEST /home/apu/.config/Postman/Partitions/d4edec82-18d3-4fee-a633-b15b7b6dd799/Local Storage/leveldb/MANIFEST-000001
-2024/08/18-10:01:46.070 8c46 Recovering log #4
-2024/08/18-10:01:46.070 8c46 Reusing old log /home/apu/.config/Postman/Partitions/d4edec82-18d3-4fee-a633-b15b7b6dd799/Local Storage/leveldb/000004.log 
-2024/08/18-10:15:52.361 8c44 Level-0 table #7: started
-2024/08/18-10:15:52.364 8c44 Level-0 table #7: 14122 bytes OK
-2024/08/18-10:15:52.366 8c44 Delete type=0 #4

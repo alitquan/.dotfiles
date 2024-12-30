@@ -1,8 +1,0 @@
-2024-08-17T07:32:33.914Z 0: 
-
-----------------------------------------------
-2024-08-17T07:32:33.921Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.64"}, modulepath: /home/apu/.config/discord/0.0.64/modules
-2024-08-17T07:32:33.922Z 2: ✅ webContents.created web1 ""
-2024-08-17T07:32:33.924Z 3: ✅ window.created win1 "discord"
-2024-08-17T07:32:34.199Z 4: ✅ webContents.did-finish-load web1
-2024-08-17T07:40:08.173Z 5: before-quit
