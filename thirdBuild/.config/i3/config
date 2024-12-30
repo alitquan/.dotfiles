@@ -200,5 +200,5 @@ client.focused	#ff6600	#993000 #f5d9c3 #ff9900
 
 # add-ons
 exec_always ~/.config/polybar/launch.sh &
-exec_always feh --bg-fill ~/Pictures/wallpapers/bandarban.jpg
+exec_always feh --bg-fill ~/Pictures/wallpapers/wallpaper1.jpg
 exec_always picom --config ~/.config/picom/picom.conf -b
