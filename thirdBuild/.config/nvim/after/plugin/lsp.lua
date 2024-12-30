@@ -47,12 +47,16 @@ cmp.setup({
       winhighlight = "Normal:CmpDoc",
     },
     mapping = {
-        ['<C-n>'] = cmp.mapping.select_next_item(), -- Move to the next item
-        ['<C-p>'] = cmp.mapping.select_prev_item(), -- Move to the previous item
-        ['<C-f>'] = cmp.mapping.scroll_docs(4),     -- Scroll documentation down
-        ['<C-b>'] = cmp.mapping.scroll_docs(-4),    -- Scroll documentation up
-        ['<C-Space>'] = cmp.mapping.complete(),      -- Trigger completion
-        ['<CR>'] = cmp.mapping.confirm({ select = true }), -- Confirm selection
+		['<C-space>'] = cmp.mapping.complete(),
+        ['<Tab>'] = cmp.mapping(cmp.mapping.select_next_item(), {'i', 's', 'c'}),
+        ['<S-Tab>'] = cmp.mapping(cmp.mapping.select_prev_item(), {'i', 's', 'c'}),
+        ['<C-e>'] = cmp.mapping.close(),
+        ['<CR>'] = cmp.mapping.confirm{
+		  select = true,
+          behavior = cmp.ConfirmBehavior.Replace,
+        },
+        ['<C-d>'] = cmp.mapping.scroll_docs(4),
+        ['<C-u>'] = cmp.mapping.scroll_docs(-4),
     },
   },
 })

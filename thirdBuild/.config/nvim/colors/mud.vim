@@ -58,8 +58,10 @@ hi CursorLineNr cterm=NONE ctermbg=172 ctermfg=8 gui=NONE guibg=#ffffff guifg=#d
 "
 "
 
-hi ColorColumn guifg= #d7da00  guibg=#8888ff guisp=#8888ff gui=NONE ctermfg=15 ctermbg=105 cterm=NONE
-hi RenderMarkdownCode guifg=#000000 guibg=#eb940f guisp=#8888ff gui=NONE ctermfg=15 ctermbg=105 cterm=NONE
+ " used by markdown.nvim
+hi ColorColumn guifg= #d7da00  guibg=#994d00 guisp=#8888ff gui=NONE ctermfg=15 ctermbg=105 cterm=NONE
+hi RenderMarkdownCode guifg=#ccffff guibg=#0d3715 guisp=#8888ff gui=NONE ctermfg=15 ctermbg=105 cterm=NONE
+
 
 
 hi IncSearch guifg=#fcfcfc guibg=#8888ff guisp=#8888ff gui=NONE ctermfg=15 ctermbg=105 cterm=NONE
