@@ -4,7 +4,8 @@
 sudo pacman -S --needed alacritty
 sudo pacman -S --needed i3-wm
 sudo pacman -S --needed picom
-sudo pacman -S --needed polybar 
+sudo pacman -S --needed polybar
+sudo pacman -S --needed feh
 sudo pacman -S --needed base-devel
 sudo pacman -S --needed xclip 
 sudo pacman -S --needed nodejs npm
